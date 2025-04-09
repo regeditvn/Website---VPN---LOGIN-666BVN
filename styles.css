@@ -34,7 +34,7 @@ body {
 }
 
 .stars-L {
-  background-image: url("assets/stars-L.svg");
+  background-image: url("stars-L.svg");
   background-size: 890px;
   height: 750px;
   animation: panning-stars 200s linear infinite alternate;
