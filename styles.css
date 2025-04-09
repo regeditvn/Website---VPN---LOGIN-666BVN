@@ -41,13 +41,13 @@ body {
 }
 
 .stars-M {
-  background-image: url("assets/stars-M.svg");
+  background-image: url("stars-M.svg");
   height: 530px;
   animation: panning-stars 300s linear infinite alternate;
 }
 
 .stars-S {
-  background-image: url("assets/stars-S.svg");
+  background-image: url("stars-S.svg");
   height: 370px;
   animation: panning-stars 400s linear infinite alternate;
 }
